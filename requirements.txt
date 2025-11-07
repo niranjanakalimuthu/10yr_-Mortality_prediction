@@ -1,0 +1,8 @@
+streamlit
+pandas
+joblib
+shap
+matplotlib
+streamlit==1.51.0
+scikit-learn==1.5.1
+cloudpickle==3.1.2
